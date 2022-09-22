@@ -6,7 +6,7 @@ Algorithm
 Data structure
  By: Alexandre Gautier
  Weight: 5
- Project to be done in teams of 2 people (your team: Francis Baidoo)
+ Project to be done in teams of 2 people (your team: Richmond Forkuo Afram)
  Project will start Sep 18, 2022 6:00 PM, must end by Sep 22, 2022 6:00 PM
  was released at Sep 19, 2022 6:00 PM
  An auto review will be launched at the deadline
@@ -1123,4 +1123,5 @@ alex@/tmp/binary_trees$
 Repo:
 
 GitHub repository: binary_trees
-File: 18-binary_tree_unc
+File: 18-binary_tree_uncle.c
+
